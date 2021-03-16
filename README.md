@@ -1,4 +1,4 @@
-Hi, I’m @gunnaero
+Hi, I’m @gunnaero <br>
 Gunn Aeronautics Association is a student-run rocketry team from Gunn High School in Palo Alto California. We compete in the annual TARC competition, as well as running outreach programs and a bunch of other rocketry-related things!
 This is where all the open sourced code for the Gunn Aeronautics rocketry team will go, such as:
 - nice-to-have homebrew rocketry related libraries
